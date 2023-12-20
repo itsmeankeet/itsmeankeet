@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @itsmeankeet
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-itsmeankeet/itsmeankeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<b> Hi I am itsmeankeet</b>
+<br>
+<b> I am currently working in a project of ...</b>
