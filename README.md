@@ -1,3 +1,3 @@
-<b> Hi I am itsmeankeet</b>
+<b>Hi I am itsmeankeet</b>
 <br>
-<b> I am currently working in a project of ...</b>
+<b>I am currently working in a project of ...</b>
