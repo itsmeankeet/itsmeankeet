@@ -7,7 +7,9 @@
 
 # 🌱 I’m currently learning:
 - Machine learning and artificial intelligence
-- Frontend development with React
+- Frontend development with html css js
+- Backend development with the php
+- Have basic learning in flutter and android app development
 - Improving my problem-solving skills through coding challenges
 
 # 💞️ I’m looking to collaborate on:
