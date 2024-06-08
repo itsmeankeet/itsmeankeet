@@ -21,7 +21,7 @@
 - Follow me on GitHub: [https://github.com/itsmeankeet]
 
 ## 😄 Pronouns:
-- You can refer to me using any pronouns (he/him, they/them), I'm comfortable with all!
+- You can refer to me using any pronouns (he/him), I'm comfortable with all!
 
 ## ⚡ Fun fact:
 - I'm an avid futsal enthusiast! I love playing it whenever I get the chance. It's a great way for me to stay active and connect with friends while having fun on the field!
