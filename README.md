@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @itsmeankeet
+## 👋 Hi, I’m Anket Adhikari
 
 ## 👀 I’m interested in:
 - Exploring new technologies and programming languages
